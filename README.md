@@ -43,9 +43,6 @@ Contains project methodology, insights, and recommendations.
 Interactive Tableau dashboard created to visualize sales performance.
 
 
-## Dashboard Preview
-![Restaurant Sales Dashboard](./5_Dashboard/Restaurant_Sales_Dashboard.png)
-
 
 ## Key Insights
 
