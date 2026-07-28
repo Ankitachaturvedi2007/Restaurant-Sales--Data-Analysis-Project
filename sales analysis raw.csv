@@ -1,0 +1,122 @@
+﻿Order details id,Order id,Order date,Order time,Item_id,Items name,Category,Price,Revenue,Month,Day,Hour
+1,1,01-01-2023,11:38:36,109,Korean Beef Bowl,Asian,17.95,17.95,Jan,Sunday,11
+2,2,02-01-2023,11:57:40,108,Tofu Pad Thai,Asian,14.5,14.5,Jan,Monday,11
+3,2,03-01-2023,11:57:40,124,Spaghetti,Italian,14.5,14.5,Jan,Tuesday,11
+4,2,04-01-2023,11:57:40,117,Chicken Burrito,Mexican,12.95,12.95,Jan,Wednesday,11
+5,2,05-01-2023,11:57:40,129,Mushroom Ravioli,Italian,15.5,15.5,Jan,Thursday,11
+6,2,06-01-2023,11:57:40,106,French Fries,American,7,7,Jan,Friday,11
+7,3,07-01-2023,12:12:28,117,Chicken Burrito,Mexican,12.95,12.95,Jan,Saturday,12
+8,3,08-01-2023,12:12:28,119,Chicken Torta,Mexican,11.95,11.95,Jan,Sunday,12
+9,4,09-01-2023,12:16:31,117,Chicken Burrito,Mexican,12.95,12.95,Jan,Monday,12
+10,5,10-01-2023,12:21:30,117,Chicken Burrito,Mexican,12.95,12.95,Jan,Tuesday,12
+11,6,11-01-2023,12:29:36,101,Hamburger,American,12.95,12.95,Jan,Wednesday,12
+12,6,12-01-2023,12:29:36,114,Potstickers,Asian,9,9,Jan,Thursday,12
+13,7,13-01-2023,12:50:37,123,Chips & Guacamole,Mexican,9,9,Jan,Friday,12
+14,8,14-01-2023,12:51:37,123,Chips & Guacamole,Mexican,9,9,Jan,Saturday,12
+15,9,15-01-2023,12:52:01,108,Tofu Pad Thai,Asian,14.5,14.5,Jan,Sunday,12
+16,9,16-01-2023,12:52:01,126,Fettuccine Alfredo,Italian,14.5,14.5,Jan,Monday,12
+17,9,17-01-2023,12:52:01,110,Pork Ramen,Asian,17.95,17.95,Jan,Tuesday,12
+18,9,18-01-2023,12:52:01,117,Chicken Burrito,Mexican,12.95,12.95,Jan,Wednesday,12
+19,9,19-01-2023,12:52:01,117,Chicken Burrito,Mexican,12.95,12.95,Jan,Thursday,12
+20,9,20-01-2023,12:52:01,129,Mushroom Ravioli,Italian,15.5,15.5,Jan,Friday,12
+21,9,21-01-2023,12:52:01,122,Chips & Salsa,Mexican,7,7,Jan,Saturday,12
+22,9,22-01-2023,12:52:01,130,Shrimp Scampi,Italian,19.95,19.95,Jan,Sunday,12
+23,9,23-01-2023,12:52:01,132,Eggplant Parmesan,Italian,16.95,16.95,Jan,Monday,12
+24,10,24-01-2023,13:00:15,129,Mushroom Ravioli,Italian,15.5,15.5,Jan,Tuesday,13
+25,10,25-01-2023,13:00:15,105,Mac & Cheese,American,7,7,Jan,Wednesday,13
+26,11,26-01-2023,13:02:59,101,Hamburger,American,12.95,12.95,Jan,Thursday,13
+27,11,27-01-2023,13:02:59,102,Cheeseburger,American,13.95,13.95,Jan,Friday,13
+28,11,28-01-2023,13:02:59,102,Cheeseburger,American,13.95,13.95,Jan,Saturday,13
+29,11,29-01-2023,13:02:59,113,Edamame,Asian,5,5,Jan,Sunday,13
+30,12,30-01-2023,13:04:41,102,Cheeseburger,American,13.95,13.95,Jan,Monday,13
+31,12,31-01-2023,13:04:41,102,Cheeseburger,American,13.95,13.95,Jan,Tuesday,13
+32,12,01-02-2023,13:04:41,104,Veggie Burger,American,10.5,10.5,Feb,Wednesday,13
+33,12,02-02-2023,13:04:41,117,Chicken Burrito,Mexican,12.95,12.95,Feb,Thursday,13
+34,13,03-02-2023,13:11:55,129,Mushroom Ravioli,Italian,15.5,15.5,Feb,Friday,13
+35,14,04-02-2023,13:14:19,114,Potstickers,Asian,9,9,Feb,Saturday,13
+36,15,05-02-2023,13:33:00,107,Orange Chicken,Asian,16.5,16.5,Feb,Sunday,13
+37,15,06-02-2023,13:33:00,124,Spaghetti,Italian,14.5,14.5,Feb,Monday,13
+38,15,07-02-2023,13:33:00,121,Cheese Quesadillas,Mexican,10.5,10.5,Feb,Tuesday,13
+39,15,08-02-2023,13:33:00,114,Potstickers,Asian,9,9,Feb,Wednesday,13
+40,16,09-02-2023,13:34:07,125,Spaghetti & Meatballs,Italian,17.95,17.95,Feb,Thursday,13
+41,16,10-02-2023,13:34:07,111,California Roll,Asian,11.95,11.95,Feb,Friday,13
+42,16,11-02-2023,13:34:07,106,French Fries,American,7,7,Feb,Saturday,13
+43,17,12-02-2023,13:53:00,101,Hamburger,American,12.95,12.95,Feb,Sunday,13
+44,17,13-02-2023,13:53:00,116,Steak Tacos,Mexican,13.95,13.95,Feb,Monday,13
+45,17,14-02-2023,13:53:00,124,Spaghetti,Italian,14.5,14.5,Feb,Tuesday,13
+46,17,15-02-2023,13:53:00,125,Spaghetti & Meatballs,Italian,17.95,17.95,Feb,Wednesday,13
+47,17,16-02-2023,13:53:00,117,Chicken Burrito,Mexican,12.95,12.95,Feb,Thursday,13
+48,17,17-02-2023,13:53:00,127,Meat Lasagna,Italian,17.95,17.95,Feb,Friday,13
+49,17,18-02-2023,13:53:00,128,Cheese Lasagna,Italian,15.5,15.5,Feb,Saturday,13
+50,17,19-02-2023,13:53:00,129,Mushroom Ravioli,Italian,15.5,15.5,Feb,Sunday,13
+51,17,20-02-2023,13:53:00,118,Steak Burrito,Mexican,14.95,14.95,Feb,Monday,13
+52,17,21-02-2023,13:53:00,131,Chicken Parmesan,Italian,17.95,17.95,Feb,Tuesday,13
+53,18,22-02-2023,13:57:08,111,California Roll,Asian,11.95,11.95,Feb,Wednesday,13
+54,19,23-02-2023,13:59:09,110,Pork Ramen,Asian,17.95,17.95,Feb,Thursday,13
+55,19,24-02-2023,13:59:09,120,Steak Torta,Mexican,13.95,13.95,Feb,Friday,13
+56,20,25-02-2023,14:03:08,107,Orange Chicken,Asian,16.5,16.5,Feb,Saturday,14
+57,20,26-02-2023,14:03:08,124,Spaghetti,Italian,14.5,14.5,Feb,Sunday,14
+58,21,27-02-2023,14:14:29,110,Pork Ramen,Asian,17.95,17.95,Feb,Monday,14
+59,22,28-02-2023,14:16:26,124,Spaghetti,Italian,14.5,14.5,Feb,Tuesday,14
+60,22,01-03-2023,14:16:26,110,Pork Ramen,Asian,17.95,17.95,Mar,Wednesday,14
+61,22,02-03-2023,14:16:26,105,Mac & Cheese,American,7,7,Mar,Thursday,14
+62,23,03-03-2023,14:19:03,105,Mac & Cheese,American,7,7,Mar,Friday,14
+63,24,04-03-2023,14:23:01,101,Hamburger,American,12.95,12.95,Mar,Saturday,14
+64,24,05-03-2023,14:23:01,110,Pork Ramen,Asian,17.95,17.95,Mar,Sunday,14
+65,24,06-03-2023,14:23:01,113,Edamame,Asian,5,5,Mar,Monday,14
+66,24,07-03-2023,14:23:01,119,Chicken Torta,Mexican,11.95,11.95,Mar,Tuesday,14
+67,25,08-03-2023,14:44:44,120,Steak Torta,Mexican,13.95,13.95,Mar,Wednesday,14
+68,25,09-03-2023,14:44:44,106,French Fries,American,7,7,Mar,Thursday,14
+69,26,10-03-2023,14:54:26,108,Tofu Pad Thai,Asian,14.5,14.5,Mar,Friday,14
+70,26,11-03-2023,14:54:26,132,Eggplant Parmesan,Italian,16.95,16.95,Mar,Saturday,14
+71,27,12-03-2023,15:11:17,101,Hamburger,American,12.95,12.95,Mar,Sunday,15
+72,27,13-03-2023,15:11:17,108,Tofu Pad Thai,Asian,14.5,14.5,Mar,Monday,15
+73,27,14-03-2023,15:11:17,131,Chicken Parmesan,Italian,17.95,17.95,Mar,Tuesday,15
+74,28,15-03-2023,15:35:46,103,Hot Dog,American,9,9,Mar,Wednesday,15
+75,29,16-03-2023,15:41:01,126,Fettuccine Alfredo,Italian,14.5,14.5,Mar,Thursday,15
+76,30,17-03-2023,15:41:25,106,French Fries,American,7,7,Mar,Friday,15
+77,31,18-03-2023,15:50:18,129,Mushroom Ravioli,Italian,15.5,15.5,Mar,Saturday,15
+78,31,19-03-2023,15:50:18,113,Edamame,Asian,5,5,Mar,Sunday,15
+79,32,20-03-2023,15:53:18,107,Orange Chicken,Asian,16.5,16.5,Mar,Monday,15
+80,32,21-03-2023,15:53:18,126,Fettuccine Alfredo,Italian,14.5,14.5,Mar,Tuesday,15
+81,32,22-03-2023,15:53:18,110,Pork Ramen,Asian,17.95,17.95,Mar,Wednesday,15
+82,32,23-03-2023,15:53:18,117,Chicken Burrito,Mexican,12.95,12.95,Mar,Thursday,15
+83,33,24-03-2023,15:54:08,101,Hamburger,American,12.95,12.95,Mar,Friday,15
+84,33,25-03-2023,15:54:08,126,Fettuccine Alfredo,Italian,14.5,14.5,Mar,Saturday,15
+85,34,26-03-2023,16:21:21,114,Potstickers,Asian,9,9,Mar,Sunday,16
+86,35,27-03-2023,16:32:04,126,Fettuccine Alfredo,Italian,14.5,14.5,Mar,Monday,16
+87,35,28-03-2023,16:32:04,112,Salmon Roll,Asian,14.95,14.95,Mar,Tuesday,16
+88,35,29-03-2023,16:32:04,113,Edamame,Asian,5,5,Mar,Wednesday,16
+89,35,30-03-2023,16:32:04,106,French Fries,American,7,7,Mar,Thursday,16
+90,36,31-03-2023,16:54:09,101,Hamburger,American,12.95,12.95,Mar,Friday,16
+91,36,01-04-2023,16:54:09,108,Tofu Pad Thai,Asian,14.5,14.5,Apr,Saturday,16
+92,37,02-04-2023,16:56:09,117,Chicken Burrito,Mexican,12.95,12.95,Apr,Sunday,16
+93,37,03-04-2023,16:56:09,129,Mushroom Ravioli,Italian,15.5,15.5,Apr,Monday,16
+94,38,04-04-2023,17:03:00,109,Korean Beef Bowl,Asian,17.95,17.95,Apr,Tuesday,17
+95,38,05-04-2023,17:03:00,110,Pork Ramen,Asian,17.95,17.95,Apr,Wednesday,17
+96,39,06-04-2023,17:07:23,117,Chicken Burrito,Mexican,12.95,12.95,Apr,Thursday,17
+97,40,07-04-2023,17:14:36,125,Spaghetti & Meatballs,Italian,17.95,17.95,Apr,Friday,17
+98,40,08-04-2023,17:14:36,105,Mac & Cheese,American,7,7,Apr,Saturday,17
+99,41,09-04-2023,17:15:20,125,Spaghetti & Meatballs,Italian,17.95,17.95,Apr,Sunday,17
+100,41,10-04-2023,17:15:20,126,Fettuccine Alfredo,Italian,14.5,14.5,Apr,Monday,17
+101,42,11-04-2023,17:28:09,107,Orange Chicken,Asian,16.5,16.5,Apr,Tuesday,17
+102,42,12-04-2023,17:28:09,124,Spaghetti,Italian,14.5,14.5,Apr,Wednesday,17
+103,42,13-04-2023,17:28:09,129,Mushroom Ravioli,Italian,15.5,15.5,Apr,Thursday,17
+104,42,14-04-2023,17:28:09,118,Steak Burrito,Mexican,14.95,14.95,Apr,Friday,17
+105,43,15-04-2023,17:38:34,103,Hot Dog,American,9,9,Apr,Saturday,17
+106,43,16-04-2023,17:38:34,117,Chicken Burrito,Mexican,12.95,12.95,Apr,Sunday,17
+107,43,17-04-2023,17:38:34,118,Steak Burrito,Mexican,14.95,14.95,Apr,Monday,17
+108,44,18-04-2023,17:54:20,130,Shrimp Scampi,Italian,19.95,19.95,Apr,Tuesday,17
+109,45,19-04-2023,17:55:48,125,Spaghetti & Meatballs,Italian,17.95,17.95,Apr,Wednesday,17
+110,45,20-04-2023,17:55:48,109,Korean Beef Bowl,Asian,17.95,17.95,Apr,Thursday,17
+111,45,21-04-2023,17:55:48,106,French Fries,American,7,7,Apr,Friday,17
+112,46,22-04-2023,18:25:51,104,Veggie Burger,American,10.5,10.5,Apr,Saturday,18
+113,46,23-04-2023,18:25:51,108,Tofu Pad Thai,Asian,14.5,14.5,Apr,Sunday,18
+114,46,24-04-2023,18:25:51,106,French Fries,American,7,7,Apr,Monday,18
+115,47,25-04-2023,18:26:34,105,Mac & Cheese,American,7,7,Apr,Tuesday,18
+116,47,26-04-2023,18:26:34,132,Eggplant Parmesan,Italian,16.95,16.95,Apr,Wednesday,18
+117,48,27-04-2023,18:26:42,104,Veggie Burger,American,10.5,10.5,Apr,Thursday,18
+118,48,28-04-2023,18:26:42,126,Fettuccine Alfredo,Italian,14.5,14.5,Apr,Friday,18
+119,48,29-04-2023,18:26:42,119,Chicken Torta,Mexican,11.95,11.95,Apr,Saturday,18
+120,48,30-04-2023,18:26:42,122,Chips & Salsa,Mexican,7,7,Apr,Sunday,18
+121,49,01-05-2023,18:33:00,120,Steak Torta,Mexican,13.95,13.95,May,Monday,18
