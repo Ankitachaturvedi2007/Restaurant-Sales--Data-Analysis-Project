@@ -45,7 +45,7 @@ Interactive Tableau dashboard created to visualize sales performance.
 
 ## Dashboard Preview
 
-![Restaurant_Sales_Dashboard](4_Dashboard/Restaurant_Sales_Dashboard.png)
+![Restaurant Sales Dashboard](4_Dashboard/Restaurant_Sales_Dashboard.png)
 
 
 ## Key Insights
